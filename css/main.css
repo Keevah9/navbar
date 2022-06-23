@@ -30,6 +30,7 @@ a:hover{
     font-size: 1.3rem;
     display: block;
     padding: 0.5rem 1rem;
+    width: fit-content;
 }
 .links a:hover, .links1 a:hover{
     padding-left: 1.5rem;
